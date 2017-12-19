@@ -1,40 +1,9 @@
-# Tale
-Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
+WordPress is too much maintainence, so I'm moving THL to a Jekyll site. I chose the Tale theme, so this repo is essentially a fork of that.
 
-![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
+---
 
-## Features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
+“What secrets lurk in the abyss that is her soul?”
 
-## Usage
-### 1. Fork and Clone
-Fork this repository then clone it.
+When A awakes on the sidewalk of an unfamiliar town with no memory of who he is or how he got there, it’s not surprising that he’s clueless about how how he should proceed. Perhaps them, it’s a good that he quickly comes across the mysterious Mal, who is troubled by a mystery of her own.
 
-### 2. Install dependencies
-Tale uses Jekyll's built-SCSS compiler to generate CSS. You'll need to install the Jekyll gem:
-
-```bash
-$ gem install jekyll
-```
-
-### 3. Create your site
-Edit the `_config.yml` file to suit your site. Also replace posts and content with your own.
-
-### 4. Running Locally
-To test your site locally, run this in your site's root directory
-
-```bash
-$ jekyll serve --watch
-```
-
-Head to http://localhost:4000/tale/ to see your site in action.
-
-## Contributing
-Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
-
-## License
-See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
+Together, the pair delve deep into the mystery of the town and their own lives. Along the way, they begin to piece together a puzzle that’s bigger than they could have ever imagined. With no idea how deep it goes, perhaps the most troubling question they have to answer is, “What fate awaits those, cursed by the hopeless loop?”
