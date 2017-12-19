@@ -1,0 +1,28 @@
+# Permalinks
+permalink:      /:title
+
+# Setup
+title:          The Hopeless Loop
+paginate:       100
+url:            https://thehopelessloop.com
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Arshad Hosein
+  url:          https://arshadhosein.com
+  email:        arsh@dhose.in
+
+# Custom vars
+version:        0.0.1
+
+# Gems
+plugins:
+  - jekyll-paginate
